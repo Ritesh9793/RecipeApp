@@ -4,6 +4,7 @@ import Navbar from "./components/Navbar";
 import Login from "./pages/Login";
 import Register from "./pages/Register";
 import Home from "./pages/Home";
+import AddRecipe from "./pages/AddRecipe";
 
 function App() {
   const [isLoggedIn, setIsLoggedIn] = useState(false);
